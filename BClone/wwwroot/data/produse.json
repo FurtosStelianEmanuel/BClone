@@ -1,0 +1,305 @@
+[
+	{
+		"nume": "Crin",
+		"culori": [
+			{
+				"rgb": [
+					151,
+					131,
+					72
+				],
+				"nume": "insertie_aurie",
+				"translate": {
+					"en": "golden insertion",
+					"hu": "arany betét",
+					"de": "Goldeinsatz"
+				},
+				"unghiuri": 1
+			},
+			{
+				"rgb": [
+					213,
+					196,
+					123
+				],
+				"nume": "auriu",
+				"translate": {
+					"en": "golden",
+					"hu": "aranysárga",
+					"de": "golden"
+				},
+				"unghiuri": 2
+			},
+			{
+				"rgb": [
+					192,
+					192,
+					192
+				],
+				"nume": "argintiu",
+				"translate": {
+					"en": "silver",
+					"hu": "ezüst",
+					"de": "Silber"
+				},
+				"unghiuri": 1
+			}
+		],
+		"imagineDefault": "insertie_aurie.jpg",
+		"descriere": "Descriere pentru Crin ",
+		"translate": {
+			"en": "Descriere pentru Crin (engleza)",
+			"hu": "Descriere in maghiara",
+			"de": "Descriere in germanos",
+			"nume": {
+				"en": "Wall mount",
+				"hu": "Fali tartó",
+				"de": "Wandhalterung"
+			}
+		},
+		"pret": 15.50,
+		"similare": [
+			"Capse",
+			"Cui",
+			"Suporți de galerie",
+			"Suporți adezivi",
+			"Suporți perete",
+			"Băriță"
+		],
+		"categorii": [
+			"sisteme de prindere",
+			"suporturi pentru perete"
+		]
+	},
+	{
+		"nume": "Rejansa 5cm 1-1,5",
+		"culori": [
+			{
+				"rgb": [
+					255,
+					255,
+					255
+				],
+				"nume": "alb",
+				"translate": {
+					"en": "alb",
+					"hu": "fehér",
+					"de": "Weiß"
+				},
+				"unghiuri": 2
+			}
+		],
+		"imagineDefault": "alb_1.jpg",
+		"descriere": "Descriere pentru Rejansa 5cm 1-1,5 ",
+		"translate": {
+			"en": "Descriere pentru Rejansa 5cm 1-1,5 (engleza)",
+			"hu": "Descriere in maghiara",
+			"de": "Descriere in germana",
+			"nume": {
+				"en": "Rejansa 5cm 1-1,5",
+				"hu": "Rejansa 5cm 1-1,5",
+				"de": "Rejansa 5cm 1-1,5"
+			}
+		},
+		"pret": 15.50,
+		"similare": [],
+		"categorii": [
+			"rejanse"
+		]
+	},
+	{
+		"nume": "Rejansa 8cm stofa pliu-fagure",
+		"culori": [
+			{
+				"rgb": [
+					255,
+					255,
+					255
+				],
+				"nume": "alb",
+				"translate": {
+					"en": "alb",
+					"hu": "fehér",
+					"de": "Weiß"
+				},
+				"unghiuri": 5
+			}
+		],
+		"imagineDefault": "alb_5.jpg",
+		"descriere": "Descriere pentru Rejansa 8cm stofa pliu-fagure ",
+		"translate": {
+			"en": "Descriere pentru Rejansa 8cm stofa pliu-fagure (engleza)",
+			"hu": "Descriere in maghiara",
+			"de": "Descriere in germana",
+			"nume": {
+				"en": "Rejansa 8cm stofa pliu-fagure",
+				"hu": "Rejansa 8cm stofa pliu-fagure",
+				"de": "Rejansa 8cm stofa pliu-fagure"
+			}
+		},
+		"pret": 15.50,
+		"similare": [],
+		"categorii": [
+			"rejanse"
+		]
+	},
+	{
+		"nume": "Rejansa bucla",
+		"culori": [
+			{
+				"rgb": [
+					255,
+					255,
+					255
+				],
+				"nume": "alb",
+				"translate": {
+					"en": "alb",
+					"hu": "fehér",
+					"de": "Weiß"
+				},
+				"unghiuri": 2
+			}
+		],
+		"imagineDefault": "alb_2.jpg",
+		"descriere": "Descriere pentru Rejansa bucla ",
+		"translate": {
+			"en": "Descriere pentru Rejansa bucla (engleza)",
+			"hu": "Descriere in maghiara",
+			"de": "Descriere in germana",
+			"nume": {
+				"en": "Rejansa bucla",
+				"hu": "Rejansa bucla",
+				"de": "Rejansa bucla"
+			}
+		},
+		"pret": 15.50,
+		"similare": [],
+		"categorii": [
+			"rejanse"
+		]
+	},
+	{
+		"nume": "Ciucure mare",
+		"culori": [
+			{
+				"rgb": [
+					192,
+					192,
+					192
+				],
+				"nume": "argintiu",
+				"translate": {
+					"en": "silver",
+					"hu": "ezüst",
+					"de": "Silber"
+				},
+				"unghiuri": 1
+			},
+			{
+				"rgb": [
+					255,
+					223,
+					0
+				],
+				"nume": "auriu",
+				"translate": {
+					"en": "golden",
+					"hu": "aranysárga",
+					"de": "golden"
+				},
+				"unghiuri": 1
+			},
+			{
+				"rgb": [
+					128,
+					128,
+					0
+				],
+				"nume": "cachi",
+				"translate": {
+					"en": "olive",
+					"hu": "olajbogyó",
+					"de": "Olive"
+				},
+				"unghiuri": 1
+			},
+			{
+				"rgb": [
+					139,
+					69,
+					19
+				],
+				"nume": "maro",
+				"translate": {
+					"en": "brown",
+					"hu": "barna",
+					"de": "braun"
+				},
+				"unghiuri": 1
+			},
+			{
+				"rgb": [
+					205,
+					133,
+					63
+				],
+				"nume": "maro_deschis",
+				"translate": {
+					"en": "light brown",
+					"hu": "világos barna",
+					"de": "Hellbraun"
+				},
+				"unghiuri": 1
+			},
+			{
+				"rgb": [
+					87,
+					175,
+					80
+				],
+				"nume": "verde",
+				"translate": {
+					"en": "green",
+					"hu": "zöld",
+					"de": "Grün"
+				},
+				"unghiuri": 1
+			}
+		],
+		"imagineDefault": "adjust.jpg",
+		"descriere": "Descriere pentru Ciucuri ",
+		"translate": {
+			"en": "Descriere pentru Ciucuri (engleza)",
+			"hu": "Descriere in maghiara",
+			"de": "Descriere in germana",
+			"nume": {
+				"en": "Tassels",
+				"hu": "Tojt",
+				"de": "Quasten"
+			}
+		},
+		"pret": 15.50,
+		"similare": [
+			"Clamă decorativă - Avion",
+			"Clamă decorativă - Brăduț",
+			"Clamă decorativă - Floral 1",
+			"Clamă decorativă - Floral 2",
+			"Clamă decorativă - Floral 3",
+			"Clamă decorativă - Floral 4",
+			"Clamă decorativă - Înger",
+			"Clamă decorativă - Mașină",
+			"Clamă decorativă - Semilună",
+			"Clamă decorativă - Soare",
+			"Clamă decorativă - Triunghi",
+			"Clamă decorativă - Ursuleț",
+			"Magneți de perdele - Pătrați",
+			"Magneți de perdele - Rotunzi",
+			"Magneți de perdele - Speciali"
+		],
+		"categorii": [
+			"accesorii perdele",
+			"ciucuri"
+		]
+	}
+]

@@ -1,0 +1,17 @@
+﻿@page
+@using BClone.Components
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<script charset="utf-8">
+    const redirect = (nume) => {
+        window.location.href = "http://82.77.60.138/preview/" + nume
+    }
+</script>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))

@@ -1,0 +1,22 @@
+﻿@using Microsoft.AspNetCore.Components.Web
+@using BClone.Models
+@using BClone.Services
+@inject JsonFileProductService ProductService 
+
+<h3>Component</h3>
+
+<div class="card-columns">
+    @foreach (var product in ProductService.GetProducts())
+    {
+        <div class="card">
+            <h1 class="card-title">@product.Nume</h1>
+            <p class="card-body">@product.Descriere</p>
+            <img src="/imagini/@product.ImagineDefault" onclick="redirect('@product.Nume')" class="card-img">
+        </div>
+
+    }
+</div>
+
+@code {
+
+}
